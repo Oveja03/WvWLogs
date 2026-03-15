@@ -6,6 +6,41 @@
   },
   "entries": [
     {
+      "id": "20260314-220233-nbpl",
+      "title": "Draken Krüger, Korüpce, Stalldri",
+      "commanders": [
+        "Draken Krüger",
+        "Korüpce",
+        "Stalldri"
+      ],
+      "dateStart": "2026-03-15T01:02:33.000Z",
+      "dateEnd": "2026-03-15T02:55:05.000Z",
+      "dateLabel": "14/3/2026, 22:02:33 - 14/3/2026, 23:55:05",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260314-220233-nbpl",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260310-215733-fuog",
       "title": "Draken Krüger, Korüpce",
       "commanders": [
