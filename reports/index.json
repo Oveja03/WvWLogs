@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260323-221002-desw",
+      "title": "Draken Krüger, Stalldri",
+      "commanders": [
+        "Draken Krüger",
+        "Stalldri"
+      ],
+      "dateStart": "2026-03-24T01:10:02.000Z",
+      "dateEnd": "2026-03-24T03:03:11.000Z",
+      "dateLabel": "23/3/2026, 22:10:02 - 24/3/2026, 0:03:11",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260323-221002-desw",
+      "summary": {
+        "borderlandsPct": 0.1111111111111111,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260321-220747-c461",
       "title": "Draken Krüger",
       "commanders": [
