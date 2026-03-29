@@ -1,10 +1,41 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260328-220255-foxi",
+      "title": "Draken Krüger, Stalldri",
+      "commanders": [
+        "Draken Krüger",
+        "Stalldri"
+      ],
+      "dateStart": "2026-03-29T01:02:55.000Z",
+      "dateEnd": "2026-03-29T02:47:14.000Z",
+      "dateLabel": "28/3/2026, 22:02:55 - 28/3/2026, 23:47:14",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260328-220255-foxi",
+      "summary": {
+        "borderlandsPct": 0.5581395348837209,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 24,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 7,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20260325-220646-3s3e",
       "title": "Draken Krüger",
