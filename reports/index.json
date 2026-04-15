@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260414-232528-my3w",
+      "title": "Draken Krüger",
+      "commanders": [
+        "Draken Krüger"
+      ],
+      "dateStart": "2026-04-15T02:25:28.000Z",
+      "dateEnd": "2026-04-15T02:53:31.000Z",
+      "dateLabel": "14/4/2026, 23:25:28 - 14/4/2026, 23:53:31",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260414-232528-my3w",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 46,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20260413-231331-aw0h",
       "title": "Draken Krüger",
       "commanders": [
