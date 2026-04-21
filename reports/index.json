@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260420-232414-6igd",
+      "title": "Stalldri",
+      "commanders": [
+        "Stalldri"
+      ],
+      "dateStart": "2026-04-21T02:24:14.000Z",
+      "dateEnd": "2026-04-21T02:59:12.000Z",
+      "dateLabel": "20/4/2026, 23:24:14 - 20/4/2026, 23:59:12",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260420-232414-6igd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260418-231933-bi94",
       "title": "Draken Krüger",
       "commanders": [
