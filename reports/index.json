@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260421-232331-tvgy",
+      "title": "Stalldri",
+      "commanders": [
+        "Stalldri"
+      ],
+      "dateStart": "2026-04-22T02:23:31.000Z",
+      "dateEnd": "2026-04-22T02:59:55.000Z",
+      "dateLabel": "21/4/2026, 23:23:31 - 21/4/2026, 23:59:55",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260421-232331-tvgy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 41,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260420-232414-6igd",
       "title": "Stalldri",
       "commanders": [
