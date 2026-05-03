@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260502-232157-pybc",
+      "title": "Wilhelm Krüger",
+      "commanders": [
+        "Wilhelm Krüger"
+      ],
+      "dateStart": "2026-05-03T02:21:57.000Z",
+      "dateEnd": "2026-05-03T02:58:51.000Z",
+      "dateLabel": "2/5/2026, 23:21:57 - 2/5/2026, 23:58:51",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260502-232157-pybc",
+      "summary": {
+        "borderlandsPct": 0.7714285714285715,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260429-231334-zkt2",
       "title": "Draken Krüger",
       "commanders": [
