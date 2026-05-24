@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260523-232523-x45h",
+      "title": "Draken Krüger",
+      "commanders": [
+        "Draken Krüger"
+      ],
+      "dateStart": "2026-05-24T02:25:23.000Z",
+      "dateEnd": "2026-05-24T02:55:38.000Z",
+      "dateLabel": "23/5/2026, 23:25:23 - 23/5/2026, 23:55:38",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260523-232523-x45h",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260511-223636-lwff",
       "title": "Draken Krüger",
       "commanders": [
