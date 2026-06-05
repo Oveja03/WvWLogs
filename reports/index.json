@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260604-231642-pcz0",
+      "title": "Nahrï",
+      "commanders": [
+        "Nahrï"
+      ],
+      "dateStart": "2026-06-05T02:16:42.000Z",
+      "dateEnd": "2026-06-05T02:51:03.000Z",
+      "dateLabel": "4/6/2026, 23:16:42 - 4/6/2026, 23:51:03",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260604-231642-pcz0",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 43,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260603-231801-i7ze",
       "title": "Draken Krüger",
       "commanders": [
