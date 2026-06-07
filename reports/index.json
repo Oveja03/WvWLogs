@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260606-232037-jw5m",
+      "title": "Wilhelm Krüger",
+      "commanders": [
+        "Wilhelm Krüger"
+      ],
+      "dateStart": "2026-06-07T02:20:37.000Z",
+      "dateEnd": "2026-06-07T02:58:08.000Z",
+      "dateLabel": "6/6/2026, 23:20:37 - 6/6/2026, 23:58:08",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260606-232037-jw5m",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 49,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260604-231642-pcz0",
       "title": "Nahrï",
       "commanders": [
