@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-232419-9ywn",
+      "title": "Draken Krüger",
+      "commanders": [
+        "Draken Krüger"
+      ],
+      "dateStart": "2026-07-02T02:24:19.000Z",
+      "dateEnd": "2026-07-02T02:57:57.000Z",
+      "dateLabel": "1/7/2026, 23:24:19 - 1/7/2026, 23:57:57",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260701-232419-9ywn",
+      "summary": {
+        "borderlandsPct": 0.9361702127659575,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 44,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260630-230400-2vu4",
       "title": "Draken Krüger",
       "commanders": [
