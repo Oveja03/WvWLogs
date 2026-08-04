@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260803-222025-3fi6",
+      "title": "Stalldri",
+      "commanders": [
+        "Stalldri"
+      ],
+      "guild": {
+        "id": "3CF2C8C7-7F34-EA11-81AB-B972029346A8",
+        "name": "Abyss Rebels",
+        "tag": "ARS"
+      },
+      "dateStart": "2026-08-04T01:20:25.000Z",
+      "dateEnd": "2026-08-04T01:59:21.000Z",
+      "dateLabel": "3/8/2026, 22:20:25 - 3/8/2026, 22:59:21",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260803-222025-3fi6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 21,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20260801-232505-abmz",
       "title": "Draken Krüger",
       "commanders": [
