@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260804-232750-j5qc",
+      "title": "Draken Krüger",
+      "commanders": [
+        "Draken Krüger"
+      ],
+      "guild": {
+        "id": "3CF2C8C7-7F34-EA11-81AB-B972029346A8",
+        "name": "Abyss Rebels",
+        "tag": "ARS"
+      },
+      "dateStart": "2026-08-05T02:27:50.000Z",
+      "dateEnd": "2026-08-05T02:54:12.000Z",
+      "dateLabel": "4/8/2026, 23:27:50 - 4/8/2026, 23:54:12",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260804-232750-j5qc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 30,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260803-222025-3fi6",
       "title": "Stalldri",
       "commanders": [
