@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260930-233108-5nr1",
+      "title": "Draken Krüger",
+      "commanders": [
+        "Draken Krüger"
+      ],
+      "guild": {
+        "id": "3CF2C8C7-7F34-EA11-81AB-B972029346A8",
+        "name": "Abyss Rebels",
+        "tag": "ARS"
+      },
+      "dateStart": "2026-10-01T02:31:08.000Z",
+      "dateEnd": "2026-10-01T02:55:50.717Z",
+      "dateLabel": "30/9/2026, 23:31:08 - 30/9/2026, 23:55:50",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20260930-233108-5nr1",
+      "summary": {
+        "borderlandsPct": 0.04918032786885246,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 58,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260926-225940-mnid",
       "title": "Draken Krüger",
       "commanders": [
