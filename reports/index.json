@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.12"
+    "version": "3.25.0"
   },
   "entries": [
+    {
+      "id": "20261123-233057-5s9v",
+      "title": "Oveja Nuclear",
+      "commanders": [
+        "Oveja Nuclear"
+      ],
+      "guild": {
+        "id": "3CF2C8C7-7F34-EA11-81AB-B972029346A8",
+        "name": "Abyss Rebels",
+        "tag": "ARS"
+      },
+      "dateStart": "2026-11-24T02:30:57.000Z",
+      "dateEnd": "2026-11-24T02:58:13.222Z",
+      "dateLabel": "23/11/2026, 23:30:57 - 23/11/2026, 23:58:13",
+      "url": "https://Oveja03.github.io/WvWLogs/?report=20261123-233057-5s9v",
+      "publishedBy": "Oveja03",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 49,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 24
+      }
+    },
     {
       "id": "20261107-231939-ypr4",
       "title": "Draken Krüger",
